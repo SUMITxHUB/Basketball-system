@@ -119,8 +119,8 @@ st.sidebar.write("""
 st.sidebar.divider()
 
 st.sidebar.subheader("🔗 Links")
-st.sidebar.markdown("[📁 GitHub Repository](https://github.com/coreDaemon/basketball)")
-st.sidebar.markdown("[📖 Documentation](https://github.com/coreDaemon/basketball/wiki)")
+st.sidebar.markdown("[📁 GitHub Repository](https://github.com/SUMITxHUB/Basketball-system)")
+st.sidebar.markdown("[📖 Documentation](https://github.com/SUMITxHUB/rf-detr)")
 
 with st.sidebar.expander("❓ FAQ"):
     st.write("""
@@ -136,4 +136,4 @@ with st.sidebar.expander("❓ FAQ"):
 
 # Footer
 st.markdown("---")
-st.caption("🏀 NBA Player Tracker — Powered by RF-DETR, SAM2, SmolVLM2, ResNet, SigLIP & K-means. © 2025")
+st.caption(" NBA Player Tracker — Powered by RF-DETR, SAM2, SmolVLM2, ResNet, SigLIP & K-means. © 2025")
